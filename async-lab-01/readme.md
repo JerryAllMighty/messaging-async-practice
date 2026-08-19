@@ -9,3 +9,5 @@ Track 1. @Async — 비동기 처리 기초
 1-3. 비동기 예외 처리
 목표: 비동기 메서드 안에서 터진 예외를 어떻게 잡는지 익힌다.
 구현: AsyncUncaughtExceptionHandler를 커스텀 구현하고, 일부러 예외를 던져 로그로 캐치되는지 확인한다.
+
+https://docs.spring.io/spring-framework/reference/integration/scheduling.html#scheduling-annotation-support-async
